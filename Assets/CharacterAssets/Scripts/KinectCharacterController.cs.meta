@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8df84ea975946094985e120ef1aaaf53
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - userTracker: {instanceID: 0}
+  - skeleton: {instanceID: 0}
+  - camMount: {instanceID: 0}
+  - hotValues: {instanceID: 0}
+  - screenVeins: {instanceID: 0}
+  - TKMetricFill: {fileID: 2100000, guid: efe820b96b5991f4ba428929406517e4, type: 2}
+  - TKMetricFill2: {fileID: 2100000, guid: 97d9f19ed5f38724b81e3181b1cf32e2, type: 2}
+  - TKMetricShell: {fileID: 2100000, guid: e0131e3c0ef75cf4397d9036a632f7bb, type: 2}
+  - manualSpawnPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}

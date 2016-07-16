@@ -1,0 +1,95 @@
+fileFormatVersion: 2
+guid: d2a131cdd29871b4199b308b66fd0097
+ModelImporter:
+  fileIDToRecycleName:
+    4300000: Recalibrate
+    4300002: Resume
+    4300004: Exit Game
+    4300006: Start
+    4300008: restart
+    4300010: Exit to
+    4300012: TK Logo
+    4300014: TK Logo - Backup
+    4300016: restart-bkup001
+    4300018: Exit Game001
+    4300020: Recalibrate001
+    4300022: Resume001
+    4300024: Start001
+    4300026: Exit to001
+    4300028: Main Menu001
+    4300030: PauseMenu
+    4300032: StartServer
+    4300034: Connect
+    4300036: Cory_Jackson
+    4300038: Kevin_Wicker
+    4300040: Dan_Dunham
+    4300042: patrick morales
+    4300044: john lozano
+    4300046: colt bauman
+    4300048: kyle doyle
+    4300050: daniel loment
+    4300052: Keman_Jackson
+    4300054: Lead_Designer
+    4300056: Lead_Programmer
+    4300058: Cory_Jackson001
+    4300060: Kevin_Wicker001
+    4300062: Dan_Dunham001
+    4300064: patrick morales001
+    4300066: john lozano001
+    4300068: colt bauman001
+    4300070: kyle doyle001
+    4300072: daniel loment001
+    4300074: Keman_Jackson001
+    4300076: Lead_Designer001
+    4300078: Lead_Programmer001
+    100100000: DataTemplate __Singleton__
+  serializedVersion: 10
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    generateAnimations: 3
+    bakeSimulation: 0
+    splitAnimations: 1
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMesh: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  textMetaNamesToFileIDs:
+    //RootNode:
+      data:
+        first: 1
+        second: a6860100
+      data:
+        first: 4
+        second: 861a0600
+      data:
+        first: 23
+        second: 60182300
+      data:
+        first: 33
+        second: a05a3200
+      data:
+        first: 111
+        second: 605fa900

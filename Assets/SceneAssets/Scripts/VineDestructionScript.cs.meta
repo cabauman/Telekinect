@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 0c8f152af73ffc74db3ae073a3b95e0a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - burningFire: {fileID: 100002, guid: 2bb013ba667aa0a419eff45335fe8b2b, type: 2}
+  - Ball: {fileID: 100000, guid: 6afe701deac97cf4a87478e3c2ccd797, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
